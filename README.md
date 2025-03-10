@@ -4,8 +4,6 @@ Esse é um projeto de Business Intelligence.
 
 Os conjuntos de dados utilizados estão disponíveis no repositório "Bases".
 
-Para visualizar e interagir com o dashboard completo acesse [este link](https://ds-rafaelfelippe.github.io/portfolio-details.html). 
-
 # Entendimento do Negócio
 
 A Master Eletronics é uma empresa americana que comercializa produtos eletrônicos de forma online para todo o mundo. Apesar de sua rápida expansão, atualmente a empresa não conta com uma equipe especializada em análise de dados. 
@@ -80,9 +78,3 @@ O desenvolvimento do dashboard constitui na criação de quatro principais visõ
 Nosso principal objetivo nesse projeto foi disponibilizar ao cliente uma análise descritiva da performance de vendas de sua empresa. Para esse fim, escolhemos o Power BI como nossa principal ferramenta de trabalho. Utilizando os recursos do próprio Power BI, realizamos toda a etapa de limpeza e transformação, além da modelagem dos dados. 
 
 Outra etapa de extrema importância no projeto foi o desenvolvimento de toda a parte visual do dashboard. Para essa tarefa, utilizamos o Figma, uma das ferramentas mais utilizadas atualmente. 
-
-# Autor
-
-Rafael Felippe  
-
-[<img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>](https://www.linkedin.com/in/rafaelfelippe/)
